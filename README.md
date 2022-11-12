@@ -1,2 +1,0 @@
-# Boreas
-React.js website
