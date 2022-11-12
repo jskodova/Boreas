@@ -1,6 +1,8 @@
 import bg from '../assets/bg.png';
 import chef from '../assets/chef.png';
 import G from '../assets/G.png';
+import boreas from "../assets/boreas.png";
+import boreaslogo from "../assets/Boreas-1.png";
 import gallery01 from '../assets/gallery01.png';
 import gallery02 from '../assets/gallery02.png';
 import gallery03 from '../assets/gallery03.png';
@@ -25,6 +27,8 @@ export default {
   bg,
   chef,
   G,
+  boreas,
+  boreaslogo,
   gallery01,
   gallery02,
   gallery03,
